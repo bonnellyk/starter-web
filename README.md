@@ -8,6 +8,10 @@ More stuff..
 
 ## Purpose
 
+Yep!
+
 ## Deployment
+
+Deploying !
 
 ## How To Contribute
