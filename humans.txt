@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kevin Bonnelly 	email@example.com
 
 # THANKS
 
