@@ -16,6 +16,8 @@ Deploying !
 
 ## How To Contribute
 
+Contribute
+
 ##Copyright
 
 Git.Training
