@@ -15,3 +15,7 @@ Yep!
 Deploying !
 
 ## How To Contribute
+
+##Copyright
+
+Git.Training
