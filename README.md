@@ -20,7 +20,7 @@ Contribute
 
 ##Copyright
 
-Git.Training
+All rights reserved !
 
 #Thanks
 
