@@ -21,3 +21,7 @@ Contribute
 ##Copyright
 
 Git.Training
+
+#Thanks
+
+Thanks to all my clients. Rebasing example.
