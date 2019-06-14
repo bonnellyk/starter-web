@@ -25,3 +25,4 @@ Git.Training
 #Thanks
 
 Thanks to all my clients. Rebasing example.
+More changes here from the feature branch.
