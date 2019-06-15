@@ -1,6 +1,7 @@
 # Starter Web Project
 
 Simple website project for demo
+Updating.
 
 ## Introduction
 
